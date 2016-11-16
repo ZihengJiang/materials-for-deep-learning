@@ -8,4 +8,4 @@ Suggestions and pull requests are welcome.
 3. [**Large Scale Machine Learning**](http://www.cs.toronto.edu/~rsalakhu/STA4273_2015/) by Russ Salakhutdinov at Toronto University (Winter 2015)
 
 ## Datasets
-see [here](../datasets.md)
+see [here](./datasets.md)
